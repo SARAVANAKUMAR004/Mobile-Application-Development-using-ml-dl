@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android_login</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="address">address</string>
+    <string name="name">name</string>
+<string name="username_hint">Username</string>
+<string name="password_hint">Password</string>
+<string name="login_button">Login</string>
+</resources>
